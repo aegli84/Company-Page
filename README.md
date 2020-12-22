@@ -1,4 +1,5 @@
 # Company-Page
-This repository is for our company page
+### Website built with Bootstrap in collaboration with colleagues at DCI
+### I worked on the about us page of the project
 
 https://the404s.github.io/Company-Page/
